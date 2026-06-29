@@ -1,4 +1,4 @@
-# RDevents
+# EventHub
 
 <p align="center">
   <b>Collaborative full-stack event-management platform</b><br />
@@ -15,17 +15,17 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-1E5F8A?style=for-the-badge&logo=docker&logoColor=60A5FA" alt="Docker" /></a>
 </p>
 
-> This is a **collaborative project / contributed fork**. The fork relationship is intentionally preserved so the real development history stays visible, including the commit and pull-request history that shows my work on the project.
+> **EventHub** is a collaborative project / contributed fork. The fork relationship is intentionally preserved so the real development history stays visible, including the commit and pull-request history that shows my work on the project.
 
 ## Overview
 
-RDevents is a full-stack platform for managing public events. It includes a public event website, user registration, personal cabinet, team mechanics, volunteer applications, admin workflows, media management, analytics, email operations, and production-oriented deployment tooling.
+EventHub is a full-stack platform for managing public events. It includes a public event website, user registration, personal cabinet, team mechanics, volunteer applications, admin workflows, media management, analytics, email operations, and production-oriented deployment tooling.
 
 The repository is organized as a TypeScript monorepo with a Next.js frontend, Express API, Prisma/PostgreSQL database layer, shared packages, Docker Compose runtime, and documentation for deployment and operational workflows.
 
 ## My contribution
 
-Most of my work in this fork focused on making the platform closer to a real event-management product rather than a static demo. The visible project history includes work across UI, backend APIs, database schema, admin workflows, production safety, testing, and deployment reliability.
+Most of my work in this fork focused on making EventHub closer to a real event-management product rather than a static demo. The visible project history includes work across UI, backend APIs, database schema, admin workflows, production safety, testing, and deployment reliability.
 
 Key areas I worked on include:
 
@@ -219,11 +219,11 @@ The API includes routes for:
 
 ## Status
 
-This repository is an evolving event-platform foundation. Many product areas are implemented as working full-stack flows, while some modules remain actively evolving as platform primitives and production-readiness improvements.
+EventHub is an evolving event-platform foundation. Many product areas are implemented as working full-stack flows, while some modules remain actively evolving as platform primitives and production-readiness improvements.
 
 ## Why it matters for review
 
-For recruiters or engineering reviewers, this project demonstrates practical exposure to:
+For recruiters or engineering reviewers, EventHub demonstrates practical exposure to:
 
 - full-stack TypeScript development;
 - monorepo organization and shared package boundaries;
